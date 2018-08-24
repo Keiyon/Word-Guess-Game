@@ -139,21 +139,11 @@ document.onkeyup = function (event) {
 begin();
 
 
-
+// ignore this stuff, I was experimenting with something that I found online and it didn't work.
 
     // var movie = movies [Math.floor(Math.random() * movies.length)];
 
-// var answerArray = [];
-// for (var i = 0; i < movie.length; i++) {
-//     answerArray[i] = "_";
-// }
-
-// var remainingLetters = movie.length;
-
-// while (remainingLetters > 0) {
-//     alert(answerArray.join(" "));
-// }
-
+// 
 // var guess = prompt("Guess a letter or get lost!");
 // if (guess === null) {
 //     break;
@@ -173,5 +163,5 @@ begin();
 
 
 
-//array of words chosen by the computer. computer randomly generating a number to pluck out a particular word.
+
 
