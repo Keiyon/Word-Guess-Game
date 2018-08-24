@@ -1,0 +1,33 @@
+.column1of2 {
+    float: left;
+    width: 500px;
+    margin:10px;
+}
+
+.column2of2 {
+    float: left;
+    width: 300px;
+    margin: 10px;
+}
+
+#lettersGuessed {
+    font-size: 15px;
+}
+
+#guessesLeft {
+    font-size: 15px;
+}
+
+#wins {
+    font-size: 15px;
+}
+
+#losses {
+    font-size: 15px;
+}
+
+body {
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
